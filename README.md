@@ -5,3 +5,7 @@
 <p align="center">
   <img width="500" alt="02_snowman" src="https://github.com/ysolarh/ysolarh/assets/109467066/9120d64f-11b6-4779-a5f0-82deca906fa6">
 </p>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysolarh%2Fhit-counter&count_bg=%23555555&title_bg=%232C2EF7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
