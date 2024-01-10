@@ -14,13 +14,13 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-21232A?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/-Java-21232A?style=flat&logo=Java&logoColor=FFA518"/>
   <img src="https://img.shields.io/badge/-C-21232A?style=flat&logo=C&logoColor=A8B9CC"/>
+  <img src="https://img.shields.io/badge/-Java-21232A?style=flat&logo=Java&logoColor=FFA518"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-21232A?style=flat&logo=javascript"/>
   <img src="https://img.shields.io/badge/-HTML-21232A?style=flat&logo=HTML5"/>
   <img src="https://img.shields.io/badge/-CSS-21232A?style=flat&logo=CSS3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/-JavaScript-21232A?style=flat&logo=javascript"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-SQLite-21232A?style=flat&logo=SQLite&logoColor=003B57"/>
