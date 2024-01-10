@@ -29,19 +29,22 @@
 </p>
 
 <!--
-<p align="left">
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"/>
-  <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-21232A?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/-GitHub-21232A?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/-Markdown-21232A?style=flat&logo=markdown"/>
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJ-IDEA"/>
-  <img src="https://img.shields.io/badge/-Vim-05122A?style=flat&logo=Vim&logoColor=019733"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Vim-21232A?style=flat&logo=Vim&logoColor=019733"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-21232A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-21232A?style=flat&logo=IntelliJ-IDEA"/>
 </p>
 -->
 
 <!--
+이전 색 참고용
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+
 ![Python](https://img.shields.io/badge/-Python-060F2C?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-060F2C?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-060F2C?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
