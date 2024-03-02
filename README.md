@@ -69,6 +69,14 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ysolarh&show_icons=true&theme=react"/>  
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ysolarh&layout=compact&langs_count=8&card_width=320&theme=react"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ysolarh&theme=react-dark&title_color=7da1ee&color=7da1ee&bg_color=00000000&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+</p>
+<!--
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ysolarh&theme=react&title_color=7da1ee&color=7da1ee&bg_color=00000000&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+</p>
+-->
 
 <!--
 ### 📈 GitHub Analytics
